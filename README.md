@@ -32,7 +32,4 @@ Python, Google Colab, Gemini API, NumPy, and FAISS.
 ---
 
 ## SDAIA Academy
-
-This repository contains work completed as part of the training program associated with SDAIA Academy.
-
 | [SDAIA Academy GitHub](https://github.com/SDAIAAcademy) |
